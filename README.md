@@ -22,3 +22,5 @@ SolidWorks file:
   - Team's accomplishments 
   - Team presentation 
   etc. 
+
+Update: The team placed 2nd for the general hackathon!!
