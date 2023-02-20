@@ -16,7 +16,7 @@ SolidWorks file:
   Python Script: 
   - Object detection 
   - Face detection 
-  - Autonomous Survellinace flight 
+  - Autonomous Surveillinace flight 
   
   Presentation: 
   - Team's accomplishments 
