@@ -23,6 +23,6 @@ SolidWorks file:
   - Team presentation 
   etc. 
   
-  Check out the business pitch: https://pitch.com/public/f822ed45-f462-4b3f-a9d1-249007f990e3
+  Check out the business pitch!!!: https://pitch.com/public/f822ed45-f462-4b3f-a9d1-249007f990e3
 
 Update: The team placed 2nd overall for general hackathon!!
