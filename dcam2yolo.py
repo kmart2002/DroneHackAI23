@@ -1,3 +1,4 @@
+#Marty Kahn
 #Script to connect drone cam to AI learning models
 import cv2
 from yolov5 import detectn
